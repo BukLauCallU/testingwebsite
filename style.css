@@ -1,0 +1,48 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+   
+    
+}
+
+body {
+    background-color: #878788;
+    
+}
+header{
+    color:rgb(227, 235, 22);
+    font-size: 3em;
+    font-family: 'Lato', sans-serif;
+}
+p {
+     font-size: 20px;
+}
+
+
+
+img {
+    width:65%;
+    border: 1px solid #dd1clc;
+}
+.text{
+    width:50%;
+    border: 1px solid;
+    padding: 8px;
+}
+.container{
+    border: 1px solid red;
+    width: 90%;
+}
+.photo{
+    float:left;
+    width: 30%;
+}
+
+img{
+    width: 100%;
+    border: 1px solid black;
+}
+#special{
+    border: 1px dashed blue;
+    width: 50%;
+}
